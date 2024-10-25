@@ -7,7 +7,7 @@ const Jumbotron = () => {
           <div className="px-6 text-center text-white md:px-12">
             <h1 className="mb-6 text-5xl font-bold">Hi, I'm Fendy</h1>
             <h3 className="mb-8 text-3xl font-bold">
-                <img src="https://plus.unsplash.com/premium_photo-1678197937465-bdbc4ed95815?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGVyc29ufGVufDB8fDB8fHww" 
+                <img src="C:\Users\win10 64bit\Documents\JCWD\front-end\exercise\portofolio2\Portofolio2\src\image\image1.png" 
                 className="h-[200px] w-[200px] rounded-full shadow-black object-cover place-self-center"/>
             </h3>
             <button

@@ -1,6 +1,6 @@
 const Projects = () => {
   return (
-    <div className="mx-auto h-[400px] bg-black">
+    <div className="container mx-auto h-[400px] bg-black">
       <div className="h-full flex justify-center items-center text-white gap-3">
         <div className="">
           <h5>Flex item 1</h5>
